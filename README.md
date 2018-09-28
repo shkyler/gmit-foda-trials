@@ -6,3 +6,4 @@ On week one we covered juppyter notebooks and the start of the "Monty Hall" prob
 
 
 ## Week 2
+test on MacOS update
