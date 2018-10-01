@@ -6,4 +6,4 @@ On week one we covered jupyter notebooks and the start of the "Monty Hall" probl
 
 
 ## Week 2
-test on MacOS update
+In week 2 we covered analysis of a data set Ian put together from out submissions. Then we looked at the Monty Hall problem in general. There was no additonal work required this week.
