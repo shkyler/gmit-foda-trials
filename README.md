@@ -7,3 +7,6 @@ On week one we covered jupyter notebooks and the start of the "Monty Hall" probl
 
 ## Week 2
 In week 2 we covered analysis of a data set Ian put together from out submissions. Then we looked at the Monty Hall problem in general. There was no additonal work required this week. However I wrote a python script called monty.py this is a version of the Monty Hall game. I also created montysim.py to run the simulation 10,000 each for 'Staying' or 'Switching' and plotting the results. Finally I created a Jupyter Notebook to run the simulation and display the results ("Monty Hall Simulation.ipynb")
+
+## Week 3
+In week 3 we covered the lady tasting tea problem. It introduced us to the concept of hypotheses testing. I created a Jupyter notebook like ians to demonstrate the concept. I made some changes to the python to make it easier to read the code
