@@ -12,4 +12,4 @@ In week 2 we covered analysis of a data set Ian put together from out submission
 In week 3 we covered the lady tasting tea problem. It introduced us to the concept of hypotheses testing. I created a Jupyter notebook like ians to demonstrate the concept. I made some changes to the python to make it easier to read the code
 
 ## Week 4
-In week 4 we covered drug testing and bayese therom, I created a notebook to work through the examples
+In week 4 we covered drug testing and Bayes' Theorm, I created a notebook to work through the examples
