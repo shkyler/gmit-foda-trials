@@ -13,3 +13,7 @@ In week 3 we covered the lady tasting tea problem. It introduced us to the conce
 
 ## Week 4
 In week 4 we covered drug testing and Bayes' Theorm, I created a notebook to work through the examples
+
+## Week 5 
+In week 4 I watched the linear regression videos. I then worked though the examples applying them to the data I plotted for Week 3 in PFDA. I also read down through the advance section
+
