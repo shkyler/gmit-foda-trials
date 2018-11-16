@@ -19,3 +19,10 @@ In week 5 I watched the linear regression videos. I then worked though the examp
 
 ## Week 6
 Watched the KNN and Iris videos and downloaded the notebook used. I started to create my own notebook to cover both courses this week
+
+## Week 7
+Watched the Simpsons paradox video and downloaded the notebook used. I created my own note book to follow the topic. I downloaded and read the Berked Gender Bias Study.
+
+## Week 8
+
+Watched the videos on cognitive bias and read through some of the reference material
