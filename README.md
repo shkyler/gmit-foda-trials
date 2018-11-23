@@ -26,3 +26,6 @@ Watched the Simpsons paradox video and downloaded the notebook used. I created m
 ## Week 8
 
 Watched the videos on cognitive bias and read through some of the reference material
+
+## Week 09
+Watched the videos on sqlite. I worked through the examples for both modules using the sqlite_test.ipynb note book (in the other repo)
